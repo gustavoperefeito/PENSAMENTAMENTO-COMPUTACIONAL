@@ -1,0 +1,34 @@
+body{
+background: pink;
+color: darkblue;
+font-size: 30px;
+}
+
+header{
+background: darkred;
+}
+
+h3{
+text-align: center;
+color:black;
+font-size: 50px;
+
+#imagemprincipal {
+width: 800;
+height: 400;
+border: 15px solid yellow;
+padding: 20px;
+margin: 20px;
+}
+.imagemlateral {
+display: inline-block;
+width: 300%;
+height: inherit;
+margin: 05px;
+
+.lista {
+display: inline-block;
+width: 50%;
+height: inherit;
+vertical-align: top;
+font-size: 20px;
